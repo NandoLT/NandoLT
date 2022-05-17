@@ -49,14 +49,7 @@
     height="40"
   />
 </a>
-<a href="https://codeigniter.com" target="_blank">
-  <img style="background-color: white; border-radius: 50%; padding: 5px"
-    src="https://cdn.worldvectorlogo.com/logos/codeigniter.svg"
-    alt="codeigniter"
-    width="40"
-    height="40"
-  />
-</a>
+
 <a href="https://www.w3schools.com/css/" target="_blank">
   <img style="background-color: white; border-radius: 50%; padding: 5px"
     src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"
@@ -65,14 +58,7 @@
     height="40"
   />
 </a>
-<a href="https://www.docker.com/" target="_blank">
-  <img style="background-color: white; border-radius: 50%; padding: 5px"
-    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg"
-    alt="docker"
-    width="40"
-    height="40"
-  />
-</a>
+
 <a href="https://expressjs.com" target="_blank">
   <img style="background-color: white; border-radius: 50%; padding: 5px"
     src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg"
@@ -97,14 +83,7 @@
     height="40"
   />
 </a>
-<a href="https://www.java.com" target="_blank">
-  <img style="background-color: white; border-radius: 50%; padding: 5px"
-    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"
-    alt="java"
-    width="40"
-    height="40"
-  />
-</a>
+
 <a
   href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"
   target="_blank"
@@ -116,14 +95,7 @@
     height="40"
   />
 </a>
-<a href="https://kubernetes.io" target="_blank">
-  <img style="background-color: white; border-radius: 50%; padding: 5px"
-    src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg"
-    alt="kubernetes"
-    width="40"
-    height="40"
-  />
-</a>
+
 <a href="https://www.linux.org/" target="_blank">
   <img style="background-color: white; border-radius: 50%; padding: 5px"
     src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg"
@@ -164,14 +136,7 @@
     height="40"
   />
 </a>
-<a href="https://www.php.net" target="_blank">
-  <img style="background-color: white; border-radius: 50%; padding: 5px"
-    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg"
-    alt="php"
-    width="40"
-    height="40"
-  />
-</a>
+
 <a href="https://postman.com" target="_blank">
   <img style="background-color: white; border-radius: 50%; padding: 5px"
     src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg"
@@ -196,14 +161,7 @@
     height="40"
   />
 </a>
-<a href="https://vuejs.org/" target="_blank">
-  <img style="background-color: white; border-radius: 50%; padding: 5px"
-    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg"
-    alt="vuejs"
-    width="40"
-    height="40"
-  />
-</a>
+
 </p>
 <hr/>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nandolt&show_icons=true&locale=en&layout=compact" alt="nandolt" /><img align="right" src="https://github-readme-stats.vercel.app/api?username=nandolt&show_icons=true&locale=en" alt="nandolt" style="padding:3px; width: 50%"/></p>
