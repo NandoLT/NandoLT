@@ -85,7 +85,7 @@
 </a>
 
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">    
-    <img src="header.svg" width="40" height="40" alt="javascript">
+    <img src="javascript.svg" width="40" height="40" alt="javascript">
 </a>
 
 <a href="https://www.linux.org/" target="_blank">
