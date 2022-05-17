@@ -84,10 +84,7 @@
   />
 </a>
 
-<a
-  href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"
-  target="_blank"
->
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
   <img style="background-color: white; border-radius: 50%; padding: 5px"
     src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
     alt="javascript"
