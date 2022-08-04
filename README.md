@@ -33,7 +33,7 @@ export const FernandoLopezTrejo {
 
 ```javascript
     ]
-    actuallyLearning: [
+    currentlyLearning: [
 ```
 <span><img src="https://img.shields.io/badge/-nestjs-c58545?style=for-the-badge&logo=nestjs&logoColor=white&labelColor=282828" /></span>
 <span><img src="https://img.shields.io/badge/-nextjs-c58545?style=for-the-badge&logo=next.js&logoColor=white&labelColor=282828" /></span>
