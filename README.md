@@ -13,6 +13,10 @@ export const FernandoLopezTrejo {
     userName: 'NandoLT',
     location: 'Cádiz, Spain',
     role: 'FullStack',
+    workingIn: {
+        enterprise: 'Wonnai',
+        role: 'Frontend Developer'
+    }
     respositories: 'https://github.com/nandolt',
     languagesAndTools: [
 ```
