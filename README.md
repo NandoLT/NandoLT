@@ -44,13 +44,13 @@ export const FernandoLopezTrejo {
 <span><img src="https://img.shields.io/badge/-graphql-c58545?style=for-the-badge&logo=graphql&logoColor=white&labelColor=282828" /></span>
 <span><img src="https://img.shields.io/badge/-vue-c58545?style=for-the-badge&logo=vue.js&logoColor=white&labelColor=282828" /></span>
 
-```
+```javascript
     ],
     connectWithMe: [
 ``` 
 <span><a href="https://linkedin.com/in/fernandolopeztrejo"><img src="https://img.shields.io/badge/-Linkedin-c58545?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=282828" /></a></span>
 
-```
+```javascript
     ]
 }
 ```
