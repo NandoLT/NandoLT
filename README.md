@@ -16,7 +16,7 @@ export const FernandoLopezTrejo {
     workingIn: {
         enterprise: 'Wonnai',
         role: 'Frontend Developer'
-    }
+    },
     respositories: 'https://github.com/nandolt',
     languagesAndTools: [
 ```
@@ -36,7 +36,7 @@ export const FernandoLopezTrejo {
 <span><img src="https://img.shields.io/badge/-mysql-c58545?style=for-the-badge&logo=mysql&logoColor=white&labelColor=282828" /></span>
 
 ```javascript
-    ]
+    ],
     currentlyLearning: [
 ```
 <span><img src="https://img.shields.io/badge/-nestjs-c58545?style=for-the-badge&logo=nestjs&logoColor=white&labelColor=282828" /></span>
@@ -45,7 +45,7 @@ export const FernandoLopezTrejo {
 <span><img src="https://img.shields.io/badge/-vue-c58545?style=for-the-badge&logo=vue.js&logoColor=white&labelColor=282828" /></span>
 
 ```
-    ]
+    ],
     connectWithMe: [
 ``` 
 <span><a href="https://linkedin.com/in/fernandolopeztrejo"><img src="https://img.shields.io/badge/-Linkedin-c58545?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=282828" /></a></span>
